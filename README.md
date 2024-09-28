@@ -1,6 +1,4 @@
 # Cleanest-City-Prediction-Model
-The model predicts the cleanliness score for the upcoming year (currently the next year is 2024).
-The model has been trained from the dataset using kaggle which has provided the data from 2016 till 2023.
 
 This study presents the development of a machine learning (ML) model aimed at predicting the cleanliness scores of Indian cities for the upcoming year, utilizing a dataset sourced from Kaggle. As urban cleanliness significantly impacts public health and environmental sustainability, accurate forecasting of cleanliness scores can aid policymakers and city planners in implementing effective sanitation strategies.
 
